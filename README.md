@@ -2,7 +2,7 @@
 
 # Modelling-Saccharomyces-cerevisiae-for-the-production-of-fermented-beverages
 
-# Autors
+# Authors
 Paul A. Valle, Yolocuauhtli Salazar, Luis N. Coria, Nicolas O. Soto-Cruz, Jesus B. Paez-Lerma
 Postgraduate Program in Engineering Sciences, BioMath Research Group, Tecnologico Nacional de Mexico/IT Tijuana, Blvd. Alberto Limon Padilla s/n, Tijuana 22454, Mexico
 Postgraduate Program in Engineering, Tecnologico Nacional de Mexico/IT Durango, Blvd. Felipe Pescador 1830 Ote., Durango 34080, Mexico
@@ -13,6 +13,9 @@ Mezcal is a traditional distilled spirit beverage from the state of Durango, Mex
 
 # Keywords
 Alcoholic fermentation; Asymptotic stability; Biostatistcs; In silico experimentation; Mechanistic modelling; Ordinary Differential Equations.
+
+# Experimental data
+The S. cerevisiae strain ITD-00185 was obtained from the yeast collection of the Microbial Biotechnology Laboratory at the Durango Institute of Technology. Fermentation kinetics were conducted in triplicate using Agave duranguensis juice with an initial sugar concentration of 129±4.7 g/L (12% glucose and 88% fructose) and a C/N ratio of 73 g C/g N as substrate. Fermentation kinetics were carried out in glass tubes (20×150 mm), each containing 15 mL of agave juice inoculated with 1×10^8 cells/mL. These tubes were then incubated at 28°C for 72 hours. Samples were analyzed every 8 hours using high-performance liquid chromatography (HPLC) to determine the concentrations of glucose, fructose, and ethanol.
 
 # Acknowledgements
 This research was fulfilled within the TecNM projects “Estrategias in silico integradas con biomatemáticas y sistemas dinámicos no lineales para el modelizado, análisis y control de sistemas biológicos [19377.24-P]”, “Modelizado de sistemas no lineales para procesos de fermentación basados en la dinámica de crecimiento de microorganismos: parte 2 [19805.24-P]”, the academic research group Project “Sistemas dinámicos no lineales” ITIJ-CA-10, and the RICCA “Red Internacional de Control y Cómputo Aplicados”.
