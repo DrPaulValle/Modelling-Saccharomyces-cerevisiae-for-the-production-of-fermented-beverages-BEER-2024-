@@ -9,7 +9,9 @@ Departament Chemical and Biochemical Engineering, Tecnologico Nacional de Mexico
 
 ## Abstract
 Mezcal is a traditional distilled spirit beverage from the state of Durango, Mexico, which is obtained by the fermentation of Agave duranguensis sugars. In this work, we formulate a mechanistic model consisting of three first-order Ordinary Differential Equations (ODEs) to describe ethanol production for mezcal by the Saccharomyces cerevisiae yeast using glucose and fructose as substrates. These equations were fitted to three different sets of experimental data, representing the concentrations of glucose [x(t)], fructose [y(t)], and ethanol [z(t)] in g/L per hour. A nonlinear regression algorithm was designed in MATLAB to fit the model to each set of experimental data where values of parameters were estimated with a 95% confidence interval. The goodness of fit of the model was evaluated both quantitatively and qualitatively by means of the coefficient of determination (R-squared), the Akaike Information Criterion (AIC), and numerical simulations that illustrate data approximation and prediction in the short-term. Furthermore, conditions for the existence of a localizing domain in the nonnegative octant as well as sufficient conditions for asymptotic stability of the unique biologically feasible equilibrium point of the system were derived by means of the Localization of Compact Invariant Sets method and Lyapunov's Stability theory for nonlinear autonomous systems.
-Keywords: Alcoholic fermentation; Asymptotic stability; Biostatistcs; In silico experimentation; Mechanistic modelling; Ordinary Differential Equations.
+
+##Keywords
+Alcoholic fermentation; Asymptotic stability; Biostatistcs; In silico experimentation; Mechanistic modelling; Ordinary Differential Equations.
 
 ## References
 [1] Walker, Graeme M., and Graham G. Stewart. "Saccharomyces cerevisiae in the production of fermented beverages." Beverages 2.4 (2016): 30.
