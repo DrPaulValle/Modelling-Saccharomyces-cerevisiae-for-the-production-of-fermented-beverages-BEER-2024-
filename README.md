@@ -4,8 +4,11 @@
 
 # Authors
 Paul A. Valle, Yolocuauhtli Salazar, Luis N. Coria, Nicolas O. Soto-Cruz, Jesus B. Paez-Lerma
+
 Postgraduate Program in Engineering Sciences, BioMath Research Group, Tecnologico Nacional de Mexico/IT Tijuana, Blvd. Alberto Limon Padilla s/n, Tijuana 22454, Mexico
+
 Postgraduate Program in Engineering, Tecnologico Nacional de Mexico/IT Durango, Blvd. Felipe Pescador 1830 Ote., Durango 34080, Mexico
+
 Departament Chemical and Biochemical Engineering, Tecnologico Nacional de Mexico/IT Durango, Blvd. Felipe Pescador 1830 Ote., Durango 34080, Mexico
 
 # Abstract
