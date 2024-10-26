@@ -2,7 +2,7 @@
 # Visit https://bit.ly/cffinit to generate yours today!
 
 cff-version: 1.2.0
-title: Saccharomyces cerevisiae modelling and nonlinear regression with normalized data
+title: Modelling Saccharomyces cerevisiae for the production of fermented beverages
 message: >-
   If you use this software, please cite it using the
   metadata from this file.
@@ -16,7 +16,7 @@ authors:
 identifiers:
   - type: url
     value: >-
-      https://github.com/DrPaulValle/Saccharomyces-cerevisiae-modelling-and-nonlinear-regression-with-normalized-data
+      https://github.com/DrPaulValle/Modelling-Saccharomyces-cerevisiae-for-the-production-of-fermented-beverages-BEER-2024-
     description: GitHub Repository
 keywords:
   - Saccharomyces cerevisiae
@@ -28,4 +28,4 @@ keywords:
   - Nonlinear regression
   - Ordinary differential equations
 license: BSD-2-Clause
-date-released: '2024-07-29'
+date-released: '2024-10-24'
