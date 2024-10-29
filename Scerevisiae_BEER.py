@@ -18,7 +18,7 @@ import statistics as st
 import warnings; warnings.filterwarnings("ignore")
 #%% Functions
 def plotdataraw(t,x,y,z):
-    plt.rcParams['text.usetex'] = True
+    #plt.rcParams['text.usetex'] = True
     plt.rcParams.update({'font.size':11})
     fig = plt.figure(figsize = (10,4))
         
@@ -69,7 +69,7 @@ def plotdataraw(t,x,y,z):
     fig.savefig('python_dataraw.pdf')
 
 def plotdata(t,x,y,z):
-    plt.rcParams['text.usetex'] = True
+    #plt.rcParams['text.usetex'] = True
     plt.rcParams.update({'font.size':11})
     fig = plt.figure(figsize = (10,4))
         
@@ -114,7 +114,7 @@ def plotdata(t,x,y,z):
     fig.savefig('python_data.pdf')
 
 def plotfit(t,xo,yo,zo,xa,ya,za):
-    plt.rcParams['text.usetex'] = True
+    #plt.rcParams['text.usetex'] = True
     plt.rcParams.update({'font.size':11})
     fig = plt.figure(figsize = (10,4))
         
