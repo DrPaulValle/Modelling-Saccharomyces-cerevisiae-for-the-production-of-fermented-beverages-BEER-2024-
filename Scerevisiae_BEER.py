@@ -19,7 +19,7 @@ import warnings; warnings.filterwarnings("ignore")
 #%% Functions
 def plotdataraw(t,x,y,z):
     #plt.rcParams['text.usetex'] = True
-    plt.rcParams['font.size'] = 12
+    plt.rcParams['font.size'] = 11
     fig = plt.figure(figsize = (10,4))
         
     ax1 = fig.add_subplot(1,3,1) 
@@ -70,7 +70,7 @@ def plotdataraw(t,x,y,z):
 
 def plotdata(t,x,y,z):
     #plt.rcParams['text.usetex'] = True
-    plt.rcParams['font.size'] = 12
+    plt.rcParams['font.size'] = 11
     fig = plt.figure(figsize = (10,4))
         
     ax1 = fig.add_subplot(1,3,1) 
@@ -115,7 +115,7 @@ def plotdata(t,x,y,z):
 
 def plotfit(t,xo,yo,zo,xa,ya,za):
     #plt.rcParams['text.usetex'] = True
-    plt.rcParams['font.size'] = 12
+    plt.rcParams['font.size'] = 11
     fig = plt.figure(figsize = (10,4))
         
     ax1 = fig.add_subplot(1,3,1)
